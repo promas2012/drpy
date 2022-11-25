@@ -1,20 +1,20 @@
 {
-“name”：“DRPY”，
-“version”：“1.0.0”，
-“description”：“”，
-“scripts”：{
-“build”：“echo \”未指定构建“&& exit 1”，
-“test”：“echo \”未指定测试“&& exit 1”，
-“开始”：“main.py”
+"name"："DRPY"，
+"version"："1.0.0"，
+"description:：""，
+"scripts"：{
+"build"："echo \"未指定构建"&& exit 1"，
+"test"："echo \"未指定测试"&& exit 1"，
+"main"："main.py"
 }，
-“repository”：{
-“type”：“git”，
-“url”：“git+https：//github.com/promas2012/drpy.git”
+"repository"：{
+"type"："git"，
+"url"："git+https：//github.com/promas2012/drpy.git"
 }，
-“作者”：“”，
-“许可证”：“ISC”，
-“错误”：{
-“网址”：“https://github.com/promas2012/drpy/issues”
+"author"：""，
+"license"："ISC"，
+"bugs":{
+"url": "https://github.com/promas2012/drpy/issues"
 }，
-“首页”：“https://github.com/promas2012/drpy#readme”
+"homepage":"https://github.com/promas2012/drpy#readme"
 }
