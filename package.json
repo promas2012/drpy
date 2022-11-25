@@ -1,7 +1,7 @@
 {
 "name": "drpy",
 "version": "1.0.0",
-"description:：""，
+"description": "",
 "scripts"：{
 "build"："echo \"未指定构建"&& exit 1"，
 "test"："echo \"未指定测试"&& exit 1"，
