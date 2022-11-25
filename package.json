@@ -1,0 +1,20 @@
+{
+“名称”：“DRPY”，
+“版本”：“1.0.0”，
+“描述”：“”，
+“脚本”：{
+“build”：“echo \”未指定构建“&& exit 1”，
+“test”：“echo \”未指定测试“&& exit 1”，
+“开始”：“节点索引.js”
+}，
+“存储库”：{
+“类型”：“git”，
+“url”：“git+https：//github.com/promas2012/drpy.git”
+}，
+“作者”：“”，
+“许可证”：“ISC”，
+“错误”：{
+“网址”：“https://github.com/promas2012/drpy/issues”
+}，
+“首页”：“https://github.com/promas2012/drpy#readme”
+}
