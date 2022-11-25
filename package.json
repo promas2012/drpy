@@ -1,6 +1,6 @@
 {
 "name": "drpy",
-"version"："1.0.0"，
+"version": "1.0.0",
 "description:：""，
 "scripts"：{
 "build"："echo \"未指定构建"&& exit 1"，
